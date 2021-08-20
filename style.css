@@ -1,0 +1,92 @@
+h1{
+    margin-left: 30px;
+    color : #4D91C6;
+    background: #000;
+    text-align: center;
+}
+h4{
+    padding-right: 165px;
+    padding-top: 7px;
+    color : #4D91C6;
+    text-align: center;
+}
+p{
+    color : #4D91C6;
+    text-align: center;
+}
+a{
+    color : #4D91C6;
+    text-align: center;
+}
+body{
+    background: #000000;
+}
+
+div{
+    text-align: center;
+}
+
+.opening {
+    border:double;
+    border-color: #4D91C6;
+}
+
+.games {
+    border:double;
+    border-color: #4D91C6;
+}
+
+.future {   
+    border:double;
+    border-color: #4D91C6;
+}
+
+.grid {
+    border:double;
+    border-color: #4D91C6;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.menu { 
+    margin: 30px;
+}
+
+a:link {
+    color:#4D91C6;
+}
+
+a:hover img {
+  opacity: 0.8; 
+}
+
+a:hover {
+    color:#70acda;
+}
+
+p.h2 {
+    text-align: center;
+}
+
+.footer {
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.game {
+    border:double;
+    border-width: 5px;
+    border-color: #4D91C6;
+    margin: 10px;
+}
+
+.header{
+    border:double;
+    border-color: #4D91C6;
+
+    display:flex;
+    justify-content: space-between;
+}
